@@ -1,0 +1,6 @@
+C:\Users\dyl_6\Documents\Visual Studio 2015\Projects\PrintStars\PrintStars\bin\Debug\PrintStars.exe.config
+C:\Users\dyl_6\Documents\Visual Studio 2015\Projects\PrintStars\PrintStars\bin\Debug\PrintStars.exe
+C:\Users\dyl_6\Documents\Visual Studio 2015\Projects\PrintStars\PrintStars\bin\Debug\PrintStars.pdb
+C:\Users\dyl_6\Documents\Visual Studio 2015\Projects\PrintStars\PrintStars\obj\Debug\PrintStars.exe
+C:\Users\dyl_6\Documents\Visual Studio 2015\Projects\PrintStars\PrintStars\obj\Debug\PrintStars.pdb
+C:\Users\dyl_6\Documents\Visual Studio 2015\Projects\PrintStars\PrintStars\obj\Debug\PrintStars.csprojResolveAssemblyReference.cache
